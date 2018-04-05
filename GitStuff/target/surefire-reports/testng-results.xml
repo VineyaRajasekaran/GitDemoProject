@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="62" started-at="2018-01-20T03:10:04Z" finished-at="2018-01-20T03:10:05Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="62" started-at="2018-01-20T03:10:04Z" finished-at="2018-01-20T03:10:05Z">
+      <class name="SeleniumLearning.AppiumTest">
+        <test-method status="PASS" signature="helloWorldAppium()[pri:0, instance:SeleniumLearning.AppiumTest@19dfb72a]" name="helloWorldAppium" duration-ms="11" started-at="2018-01-19T21:10:04Z" finished-at="2018-01-19T21:10:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- helloWorldAppium -->
+        <test-method status="PASS" signature="helloWorldAppium1()[pri:0, instance:SeleniumLearning.AppiumTest@19dfb72a]" name="helloWorldAppium1" duration-ms="0" started-at="2018-01-19T21:10:04Z" finished-at="2018-01-19T21:10:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- helloWorldAppium1 -->
+        <test-method status="PASS" signature="helloWorldAppium3()[pri:0, instance:SeleniumLearning.AppiumTest@19dfb72a]" name="helloWorldAppium3" duration-ms="3" started-at="2018-01-19T21:10:04Z" finished-at="2018-01-19T21:10:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- helloWorldAppium3 -->
+      </class> <!-- SeleniumLearning.AppiumTest -->
+      <class name="SeleniumLearning.SeleniumTest">
+        <test-method status="PASS" signature="helloWorld()[pri:0, instance:SeleniumLearning.SeleniumTest@3d24753a]" name="helloWorld" duration-ms="1" started-at="2018-01-19T21:10:05Z" finished-at="2018-01-19T21:10:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- helloWorld -->
+        <test-method status="PASS" signature="helloWorld1()[pri:0, instance:SeleniumLearning.SeleniumTest@3d24753a]" name="helloWorld1" duration-ms="0" started-at="2018-01-19T21:10:05Z" finished-at="2018-01-19T21:10:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- helloWorld1 -->
+        <test-method status="PASS" signature="helloWorld3()[pri:0, instance:SeleniumLearning.SeleniumTest@3d24753a]" name="helloWorld3" duration-ms="0" started-at="2018-01-19T21:10:05Z" finished-at="2018-01-19T21:10:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- helloWorld3 -->
+      </class> <!-- SeleniumLearning.SeleniumTest -->
+      <class name="SeleniumLearning.TestNG2Test">
+        <test-method status="PASS" signature="helloWorldTestNG2()[pri:0, instance:SeleniumLearning.TestNG2Test@59a6e353]" name="helloWorldTestNG2" duration-ms="0" started-at="2018-01-19T21:10:05Z" finished-at="2018-01-19T21:10:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- helloWorldTestNG2 -->
+        <test-method status="PASS" signature="helloWorldTestNG21()[pri:0, instance:SeleniumLearning.TestNG2Test@59a6e353]" name="helloWorldTestNG21" duration-ms="0" started-at="2018-01-19T21:10:05Z" finished-at="2018-01-19T21:10:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- helloWorldTestNG21 -->
+        <test-method status="PASS" signature="helloWorldTestNG23()[pri:0, instance:SeleniumLearning.TestNG2Test@59a6e353]" name="helloWorldTestNG23" duration-ms="0" started-at="2018-01-19T21:10:05Z" finished-at="2018-01-19T21:10:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- helloWorldTestNG23 -->
+      </class> <!-- SeleniumLearning.TestNG2Test -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
